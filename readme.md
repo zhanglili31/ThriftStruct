@@ -2,3 +2,4 @@
 
 Thrift官网：http://thrift.apache.org/
 
+Thrift官方教程：https://thrift.apache.org/docs/idl.html
